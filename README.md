@@ -28,7 +28,7 @@ Clone this repository and install the dependencies:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/nuxt3-starter.git my-project
+git clone https://github.com/trevisandaniel/starterTemplate.git my-project
 cd my-project
 
 # Install dependencies
